@@ -1,5 +1,5 @@
 app = "epic-game2-82d3"
-primary_region = "fra"
+primary_region = "cdg"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
